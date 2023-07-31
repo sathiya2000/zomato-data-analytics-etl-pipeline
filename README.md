@@ -32,5 +32,6 @@ More info about the dataset can be found here:
 Website - https://www.kaggle.com/datasets/mathurutkarsh/zomato-dataset
 
 ## Data Model
-Zomato Data Model.png
+![Zomato Data Model](https://github.com/sathiya2000/zomato-data-analytics-etl-pipeline/assets/65173382/31b92fff-f419-4ee3-af2c-28669ffbb0c9)
+
 
