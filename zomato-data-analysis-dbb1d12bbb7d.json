@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zomato-data-analysis",
+  "private_key_id": "dbb1d12bbb7de417c8aba04313e8703f2dda840b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcLnBDmk6w6ddq\n5QuXn/lPCUePhjNAiodFtmW2Iqqf0AVS0xRznOKuniXjObJBQydC1wz+YZVVbngP\nZHtrE0k6XseCj3T0jchDnpNCIHCp2EO8cVSCr6CUfb7AE43L4bcZicUpoT6Jm39K\ntUHABR5db+GbKHPelmWbvhF+ICy2keR30Sfva7SrMq3IfwfDnTXthkKsJyfFggTN\nFWc3MQklAGPzTuystd2/nVncr0wje8hv5QYmD30kJZOSQ4iwxk+0Nupv2+S+f1VA\npT03qDWl0toPs13OudRx+IhF/dkVWvQTSAVU8VxL5nBzDp0CoeRGTOVMBzqz/G5W\nDdrctpJ5AgMBAAECggEAD9XXinXZTQUQqI/GSp6COSTFjYRRAFYWBsKfx8VLtn4c\nJBHZzNUXLhbuhtOWmBkLyzJMaM29G0Hi83CVNj3o2qhkeH+SH1TxfVr/2aBku/En\nq7IenEzcA7ec1mhvzpW5VQy2dxTtvHxjKNB9n6Sv4k+8jgOefUQ+KM8vLTIW8SsW\nE8kPo56rOx6wEnaXJ/H+eSlr3mGM1oMng3QyWzaUF3GM40xOqwQJvZiSwmlsK1zR\nhcs5QwXNeuYVNBGEONRxmg4uGJ8O8R8t0k2i0aX92yTxl+7sM3oxr3LAOig3li2c\nsAIvDQLPCkW9PrqXlhSeKCZUwqwV0A8xroGnON3QrwKBgQDRwmQEfUSYRqSsUZC9\n2ms0ghBhIXvs5k8OzA933i0arp4+zxXfliT4S9SADloJltB9izbkjIoj2r89QiW9\nfVXBxLMJSMqZsWrLpb3udHJkHzoHm/mviUeyzNPi1rXeE5BFRqzdtkIeAHatJliy\n4HwAxmCiJJR1RKx2r7dw1pqEMwKBgQC+nGrhlBUcskCWHlB5eFitFh3AUGUNcnWQ\ntuqZ/XKUa2Q7Y8iU6Z4GGr6yxEbxwWsX1dnZkmqwRWP+9+IKk3QOeMeLfasei+Js\nb17gF3ExjAlwET7Qy2lrEgvXacE7c9WajjYjCL7/opkCysFYP1SD9RM1lhn4Dx5h\nnwEyw4QCowKBgAJ4i70RzLEOg/oTq+TQodqofZDnWBJeVCgUd0ouL9HUpMCQp+1O\nU3kpS4OGp8DdKe+QqEDg9u+dMAuEr/UfeNcjfghp9xkAYgWsGiSo8oADbieQyswq\njdGpYAWYCeRnzpdCUd76uqSn1L4NaZYR1uQbch/21ljbSjzLrRmDLabJAoGAevmb\nk1HglRUDylZggR39yB3er/auW5Ce/PCmRxdXVx46Gn70J+7ZPwL+SYOMaejp2QTl\nehOWtYbvTs5KjZw4YiXWR86aGikRuffYdCdrphW8+QqHRloV9zg7X40hV+QRyZc6\nojvATllu8ngxaWfidQgmjon60ymd5kmZklDF2JUCgYAFZxaUlyndW7FvQDdWf5CP\nIo2+D+h1IBIvUJG3fkU4aimJYO79W38Z7MsHcxgfS3Nd3roRbT8Kbu+JZHC1mEV7\nbZDInqSoUNa5c0bsfxn9RrcrDd/72N1fhJSZZzz2c3OH4ThRc9hCPztrX4qu6XY0\n19j1biCCJpXZcN+TW8mY7A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "zomato-data-project@zomato-data-analysis.iam.gserviceaccount.com",
+  "client_id": "113522378121699159557",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zomato-data-project%40zomato-data-analysis.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
